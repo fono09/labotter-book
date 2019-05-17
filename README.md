@@ -10,11 +10,16 @@
 
 TeXで書く。
 
-CloudLaTeXのDropboxのお手元と同期させつつ、
-他の人とはGitHubで同期をとる。
+## (推奨)環境構築
+
+これでよし。
+
+[Visual Studio CodeでTeXのコンパイルをできるようにする方法 - Qiita](https://qiita.com/SUZUKI_Masaya/items/7fb5509006163e7e671f)
 
 
-PR形式にするかも？
+## ブランチについて
+
+master保護してPRだけにするかも？
 
 
 
